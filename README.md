@@ -8,7 +8,7 @@ This GitHub repository contains the source code for a Java Sorting Algorithm GUI
 
 <div style="display: flex;">
     <img src="https://github.com/Harman8815/Sorting-Algorithm-Visualizer-GUI/assets/115714095/edd91eb5-4808-420a-a22a-ad5760cbf61e" width="250" height="350" style="margin-right: 10px;" />
-    <img src="https://github.com/Harman8815/Sorting-Algorithm-Visualizer-GUI/assets/115714095/8642554f-12f9-4770-897f-6130771fc4f8" width="600" height="350" />
+    <img src="https://github.com/Harman8815/Sorting-Algorithm-Visualizer-GUI/assets/115714095/8642554f-12f9-4770-897f-6130771fc4f8" width="550" height="350" />
 </div>
 
 https://github.com/Harman8815/Sorting-Algorithm-Visualizer-GUI/assets/115714095/2ea715e7-6568-4471-85d1-94cc15736a42
